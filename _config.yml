@@ -2,7 +2,7 @@
 name: "Of Letters and Pages"
 title: "Of Letters and Pages"
 description: "Blog"
-logo: 'assets/images/olap.png'
+logo: 'assets/images/olap-small.png'
 favicon: 'assets/images/olap-small.png'
 baseurl: /oflettersandpages
 #google_analytics: 'UA-46278016-1'

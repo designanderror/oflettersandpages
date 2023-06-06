@@ -2,8 +2,8 @@
 layout: post
 title: "The Midnight Library by Matt Haig: On a Journey of Self-Discovery"
 author: oflettersandpages
-categories: [ book-review , review ]
-tags: [red, yellow]
+categories: [ book-review ]
+#tags: [red, yellow]
 image: assets/images/midnight-library.jpg
 rating: 4.0
 featured:true

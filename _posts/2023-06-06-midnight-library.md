@@ -8,6 +8,7 @@ image: assets/images/midnight-library.jpg
 featured: true
 hidden: true
 rating: 4.0
+
 ---
 
 The Midnight Library, written by British author Matt Haig, is a captivating and thought-provoking novel that takes readers on an extraordinary journey through the choices and regrets that shape our lives. Haig skillfully combines elements of philosophy, fantasy, and contemporary fiction to create a poignant story that explores the profound questions of existence, purpose, and the pursuit of happiness.
